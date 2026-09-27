@@ -92,7 +92,7 @@ def display_results(results):
 
 
 def main():
-    st.title("Product Analysis Dashboard")
+    st.title("Aldren's Business Development Dashboard 🚀")
 
     # Custom CSS to improve readability
     st.markdown("""
